@@ -1,5 +1,9 @@
 # MonKernel-Package
-A comprehensive set of functions I created that work in tandem to form a shell environment for myself, it is able to automatically detect/wrap/organize peripherals by type. It has a network stack that allows for domain controlled systems with their Mainframe counterpart, it has system-wide non-blocking DFPWM that automatically maps itself to one or multiple speaker sources when detected. 
+A comprehensive set of functions I created that work in tandem to form a shell environment for myself, it is able to automatically detect/wrap/organize peripherals by type. It has a network stack that allows for domain controlled systems with their Mainframe counterpart, it has system-wide non-blocking DFPWM that automatically maps itself to one or multiple speaker sources when detected.
+
+- Geometrically Aware Special Print Functionality
+  This Kernel creates windows to render everything you see on the screen after the very initial bootup sequence, the terminal window itself and any monitors have window objects created and stored in memory for use later.
+  sPrint(Special Print) replaces write AND print in and all-in-one geometrically aware text wrapper.
 
 It has it's own RC 1-on-1 chat system for communication even if the minecraft chatbox is disabled.
 It is able to display information from an environment detector across an infinte amount of monitors.

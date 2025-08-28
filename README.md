@@ -8,6 +8,8 @@ I tried to make it immersive.
 
 When you run 'start xserver' the system automatically creates the needed subdirectory and allows you to create your own users/passes.conf files on the fly during initialization. Any machine running the kernel with a modem attached (wired only) can use the mainframe (through xLogin) to open doors or open a multishelled CraftOS environment.
 
+All machines running this kernel have the ability to become dedicated redstone locks, press L for the lockmenu to setup.
+
 WHEN RUNNING FOR THE FIRST TIME
 - Have all your peripherals connected (it doesn't have to be before the machine turns on, just before you run 'devInitAll' from xCommand (C Key)
 - When you run devInitAll, it saves everything it detected in multiple .conf files that upon reboot - reappends the peripherals and makes them immediately available again.

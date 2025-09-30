@@ -28,3 +28,5 @@ KEY LEGEND
 - C for xCommand (the main menu)
 - X for xServer commands (remote panicing of machines)
 - M for MultiMonitor config menu
+- T enables/disables ScreenCopyMode
+- D enabled/disables DisplayHost on the fly

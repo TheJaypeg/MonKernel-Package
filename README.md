@@ -34,3 +34,4 @@ KEY LEGEND
 
 Control Key Mode LEGEND
 - leftCtrl or rightCtrl + L = Locks the System immediately if a password was set in Lock Menu
+- leftCtrl or rightCtrl + G = Resets GPS Navigation Coordinates to blank

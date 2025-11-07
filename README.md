@@ -23,6 +23,7 @@ THERE IS A LIMIT OF 8 SPEAKERS PER COMPUTER.
 (I cannot change this, it seems to be a CC Tweaked limitation when running multiple speakers in parallel)
   
 KEY LEGEND
+- G for starting GPS navigation on wireless pocket computers
 - V for changing the Audio Subsystem volume on the fly
 - S for ShellEmu (running shell programs as normal from within the kernel
 - L for LockMenu (setting up dedicated Redstone Door Locks)

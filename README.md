@@ -1,4 +1,4 @@
-# MonKernel-Package
+# MK-System (TUI OS)
 A comprehensive set of functions I created that work in tandem to form a shell environment for myself, it is able to automatically detect/wrap/organize peripherals by type. It has a network stack that allows for domain controlled systems with their Mainframe counterpart, it has system-wide non-blocking DFPWM that automatically maps itself to one or multiple speaker sources when detected.
 
 - Geometrically Aware Special Print Functionality

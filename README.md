@@ -32,6 +32,7 @@ KEY LEGEND
 - M for MultiMonitor config menu
 - T enables/disables ScreenCopyMode
 - D enabled/disables DisplayHost on the fly
+- F Access the Function Menu
 
 Control Key Mode LEGEND
 - leftCtrl or rightCtrl + L = Locks the System immediately if a password was set in Lock Menu
